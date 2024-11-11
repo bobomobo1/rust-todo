@@ -28,6 +28,7 @@ struct Cli {
 #[derive(Subcommand)]
 enum Commands {
     Add { title: String },
+    #[command(about = "List all tasks")]
     List,
     Complete { index: usize },
     Remove { index: usize },
