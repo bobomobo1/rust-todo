@@ -22,7 +22,7 @@ todo list
 ```
 You should see something like
 
-```bash
+```css
 1 - [ ] Example Task
 ```
 
