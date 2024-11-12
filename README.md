@@ -22,7 +22,9 @@ todo list
 ```
 You should see something like
 
+```bash
 1 - [ ] Example Task
+```
 
 To complete it:
 
