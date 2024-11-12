@@ -1,3 +1,5 @@
+A CLI todolist written in Rust.
+
 ### Quick Installation
 
 To quickly install, clone the repo and run the installation script:
@@ -14,6 +16,8 @@ Add your first task:
 ```bash
 todo add "Example Task"
 ```
+
+This will add a todo.js file to the directory you are in. Different directories can have different todo.js files
 
 Then list it:
 
